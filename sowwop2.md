@@ -9,7 +9,7 @@
 
 <div align="center">观看预告片 https://youtu.be/1Oo4batsd7c</div></P>
 
- <div align="center"><h2><a href="http://220.141.128.236"> 观看更多影片  http://220.141.128.236  </h2></a></div>
+ <div align="center"><h2><a href="http://220.141.128.236"> 观看更多影片  http://111.241.90.121  </h2></a></div>
 
  <div align="center"><h3><a href="https://youtu.be/1Oo4batsd7c">请大家告诉大家，错过可能得等一年！</h3> </div>
 </P>
