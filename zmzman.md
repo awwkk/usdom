@@ -3,7 +3,7 @@
 <img src="img/2019-04-03_215755-4.jpg">
 </p>
 
- <h3 align="center"> 翻牆必看  http://111.241.90.121</h3></p>
+ <h3 align="center"> 翻牆必看  http://36.228.34.197</h3></p>
 <div align="center">
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div></p>
 
