@@ -9,26 +9,38 @@
 
 <div align="center">免翻观看预告片 http://ki.xyrs.bid/sy/</div></P>
 
- <div align="center"><h2><a href="http://220.141.125.164"> 免翻观看更多影片  http://220.141.125.164  </h2></a></div>
+ <div align="center"><h3><a href="http://220.141.125.164"> 免翻观看更多影片  http://220.141.125.164  </h3></a></div>
 
  <div align="center"><h3><a href="https://youtu.be/1Oo4batsd7c">请大家告诉大家，错过可能得等一年！</h3> </div>
 </P>
 
 <table>
 <tr><td>
-【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
+【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</P>
 
 五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
 
 神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2019年演出”，对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵交响乐团音乐会。
 </td></tr>
 </table>
+<div align="center">
+<IMG SRC="img/fngrchn.jpg" width=480>
+  </div></p>
+ <div align="center"><h3>对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。</h3> </div>
 
+<a name=list-1>
+<div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视方法</h3></a></div> 
 
+<table>
+<tr>
+<td><a name=#1><h2>通过爱博电视收看</h2></a></td>
 
+<td><a name=#2><h2>通过衛星《韩星五A号》收看</h2></a></td>
 
+<td><a name=#3><h2>通过翻墙软件收看</h2></a></td>
 
-
+</td></tr>
+</table>
 
 <a name=list>
 <div align="center">
@@ -126,7 +138,7 @@
 <div align="center">
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
-
+<a name=1>
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
 <div align="center">
 <IMG SRC="img/2018-02-13_021319.jpg" width=480>
@@ -145,13 +157,13 @@
   
  
   一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。</p>
-  
+  <a href=#list-1><h4 align="right">回上方</a></h4>
   
  <div align="center">
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
   
-
+<a name=2>
   <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(二)</h4></a></div> 
 
 <h3 align="center"><a href="http://nn.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看</a></h3>
@@ -205,16 +217,17 @@
 谘询电话001-800-558-9045或电邮至feedback@ntdtv.com。</p>
 新唐人电视台 2018年9月16日</p>
  <br/>
- 
+ <a href=#list-1><h4 align="right">回上方</a></h4>
 <div align="center">
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
-
-<div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法(三)</h3></a></div> 
+<a name=3>
+<div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
 
 <div align="center"><h3><a href="http://kk.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
   <br/>
+
 
  <div align="center">
 <a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h3>◆ 翻墙软件下载 (完全免费 .安全. 无毒)</a></h3></div>
@@ -244,6 +257,8 @@
 </tr>
 </table>
  <br/>
+<a href=#list-1><h4 align="right">回上方</a></h4> 
+ 
 <div align="center">
 <IMG SRC="img/INTDTV.png" width=480>
   </div>
