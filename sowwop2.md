@@ -55,29 +55,6 @@
 </td></tr>
 </table>
 
-<a name=list>
-<div align="center">
-<IMG SRC="img/SYSO2016_1032x484_v1-600x400.jpg" width=880>
-  </div>
-<div align="center">神韵交响乐团（神韵艺术团提供）</div>
-<div align="center"><a href="#2">➤“与宇宙相连”指挥家赞神韵交响乐宏大无比</a></div></P>
-
-<div align="center">
-<IMG SRC="img/1909230701012384-600x400.jpg" width=880>
-  </div>
-<div align="center">2019年9月23日午间，神韵交响乐团在台北国家音乐厅演出。（陈柏州／大纪元）</div>
-<div align="center"><a href="#1">➤知名乐评人：神进入神韵音乐 拯救人的灵魂</a></div></P>
-
-
-<div align="center">
-<a href="https://youtu.be/1Oo4batsd7c"><IMG SRC="img/191002184830100692-600x400.jpg" width=880></a>
-  </div>
-<div align="center">2019年10月2日晚间，新竹市文化局演艺厅是神韵交响乐团2019年度在台湾的最后一场演出，演出出现爆满的盛况。（龚安妮／大纪元）</div>
-<div align="center"><a href="#3">➤11场连续大爆满 神韵交响乐台湾完美落幕</a></div></P>
-
-<div align="center">
-<IMG SRC="img/fngrchn.jpg" width=480>
-  </div></p>
 
 
 
@@ -210,6 +187,29 @@
 
  <br/>
 
+<a name=list>
+<div align="center">
+<IMG SRC="img/SYSO2016_1032x484_v1-600x400.jpg" width=880>
+  </div>
+<div align="center">神韵交响乐团（神韵艺术团提供）</div>
+<div align="center"><a href="#2">➤“与宇宙相连”指挥家赞神韵交响乐宏大无比</a></div></P>
+
+<div align="center">
+<IMG SRC="img/1909230701012384-600x400.jpg" width=880>
+  </div>
+<div align="center">2019年9月23日午间，神韵交响乐团在台北国家音乐厅演出。（陈柏州／大纪元）</div>
+<div align="center"><a href="#1">➤知名乐评人：神进入神韵音乐 拯救人的灵魂</a></div></P>
+
+
+<div align="center">
+<a href="https://youtu.be/1Oo4batsd7c"><IMG SRC="img/191002184830100692-600x400.jpg" width=880></a>
+  </div>
+<div align="center">2019年10月2日晚间，新竹市文化局演艺厅是神韵交响乐团2019年度在台湾的最后一场演出，演出出现爆满的盛况。（龚安妮／大纪元）</div>
+<div align="center"><a href="#3">➤11场连续大爆满 神韵交响乐台湾完美落幕</a></div></P>
+
+<div align="center">
+<IMG SRC="img/fngrchn.jpg" width=480>
+  </div></p>
 
 
 <div align="center">
