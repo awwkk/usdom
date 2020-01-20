@@ -1,15 +1,15 @@
 <div align="center">
-<IMG SRC="img/imgad.jpg" width=880>
+<IMG SRC="img/c2f1bcb872097504.jpg" width=880>
   </div></P>
 
 
 <div align="center">
-<IMG SRC="img/4035.png_860.png" width=880>
+<IMG SRC="img/2020011920.jpg" width=880>
   </div></P>
 
-<div align="center">观看预告片 https://youtu.be/1Oo4batsd7c</div></P>
+<div align="center">观看预告片 http://ki.xyrs.bid/sy/</div></P>
 
- <div align="center"><h2><a href="http://220.141.125.164"> 观看更多影片  http://220.141.125.164  </h2></a></div>
+ <div align="center"><h2><a href="http://220.141.125.164"> 免翻观看更多影片  http://220.141.125.164  </h2></a></div>
 
  <div align="center"><h3><a href="https://youtu.be/1Oo4batsd7c">请大家告诉大家，错过可能得等一年！</h3> </div>
 </P>
