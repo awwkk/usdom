@@ -46,11 +46,11 @@
 
 <table>
 <tr>
-<td><a href="1"><h3>通过爱博电视收看</a></h3></td>
+<td><a href="1"><h3>➤通过爱博电视收看</a></h3></td>
 
-<td><a href="2"><h3>通过衛星《韩星五A号》收看</a></h3></td>
+<td><a href="2"><h3>➤通过衛星《韩星五A号》收看</a></h3></td>
 
-<td><a href="3"><h3>通过翻墙软件收看</a></h3></td>
+<td><a href="3"><h3>➤通过翻墙软件收看</a></h3></td>
 
 </td></tr>
 </table>
@@ -79,60 +79,7 @@
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
 
-  
 
-
-
- <div align="center"><h2><a href="http://nn.epub.vin/sy">2019圣诞节期间  大陆播出时间</h2></a></div>
-
-<table>
-<tr>
-	<td width="290"><div align="center">日期</td></div>  
-	<td width="290"><div align="center">时间</td></div>  
-	<td width="300"><div align="center">备注</td></div>  
-</tr>
-<tr>
-	<td><div align="center">12/24/2019 周二  圣诞节</td></div> 
-	<td><div align="center">20:30</td></div> 
-	<td><div align="center">《2018神韵交响乐团音乐会》  首播</td></div> 
-</tr>
-<tr>
-	<td><div align="center">12/25/2019 周三  圣诞节</td></div> 
-	<td><div align="center">9:30</td></div> 
-	<td><div align="center">《2018神韵交响乐团音乐会》  重播</td></div> 
-</tr>
-
-<tr>
-	<td><div align="center">12/25/2019 周三  圣诞节</td></div> 
-	<td><div align="center">14:00</td></div> 
-	<td><div align="center">《2018神韵交响乐团音乐会》  重播</td></div> 
-</tr>
-
-</table>
-<br/>
-
-
- <div align="center"><h2><a href="http://nn.epub.vin/sy">2020新年期间  大陆播出时间</h2></a></div>
-
-<table>
-<tr>
-	<td width="290"><div align="center">日期</td></div>  
-	<td width="290"><div align="center">时间</td></div>  
-	<td width="300"><div align="center">备注</td></div>  
-</tr>
-<tr>
-	<td><div align="center">12/31/2019 周二  新年期间</td></div> 
-	<td><div align="center">20:00</td></div> 
-	<td><div align="center">《2018神韵交响乐团音乐会》  首播</td></div> 
-</tr>
-<tr>
-	<td><div align="center">1/1/2020 周三  新年期间</td></div> 
-	<td><div align="center">14:00</td></div> 
-	<td><div align="center">《2018神韵交响乐团音乐会》  重播</td></div> 
-</tr>
-
-</table>
-<br/>
 
 <div align="center">
 <IMG SRC="img/2018_SYSO_EC_WC_Xmas_Web-600x400.png" width=880>
