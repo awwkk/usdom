@@ -32,7 +32,11 @@
   <div align="center">
 <IMG SRC="img/2020sy.jpg" width=680>
   </div></P>
-
+  
+<div align="center">
+<IMG SRC="img/fngrchn.jpg" width=480>
+  </div></p>
+  
  <div align="center"><h3>对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。</h3> </div>
 
 
@@ -42,11 +46,11 @@
 
 <table>
 <tr>
-<td><a name=#1><h3>通过爱博电视收看</h3></td>
+<td><a href="1"><h3>通过爱博电视收看</a></h3></td>
 
-<td><a name=#2><h3>通过衛星《韩星五A号》收看</h3></td>
+<td><a href="2"><h3>通过衛星《韩星五A号》收看</a></h3></td>
 
-<td><a name=#3><h3>通过翻墙软件收看</h3></td>
+<td><a href="3"><h3>通过翻墙软件收看</a></h3></td>
 
 </td></tr>
 </table>
