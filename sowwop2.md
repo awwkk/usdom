@@ -46,11 +46,11 @@
 
 <table>
 <tr>
-<td><a href="1"><h3>➤通过爱博电视收看</a></h3></td>
+<td><a href="#1"><h3>➤通过爱博电视收看</a></h3></td>
 
-<td><a href="2"><h3>➤通过衛星《韩星五A号》收看</a></h3></td>
+<td><a href="#2"><h3>➤通过衛星《韩星五A号》收看</a></h3></td>
 
-<td><a href="3"><h3>➤通过翻墙软件收看</a></h3></td>
+<td><a href="#3"><h3>➤通过翻墙软件收看</a></h3></td>
 
 </td></tr>
 </table>
@@ -81,13 +81,7 @@
 
 
 
-<div align="center">
-<IMG SRC="img/2018_SYSO_EC_WC_Xmas_Web-600x400.png" width=880>
-  </div></P>
 
-<div align="center">
-<IMG SRC="img/fngrchn.jpg" width=480>
-  </div></p>
 <a name=1>
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
 <div align="center">
