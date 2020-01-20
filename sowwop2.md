@@ -83,7 +83,7 @@
 
 
 <a name=1>
-<div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
+<div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《神韵艺术团2020年演出》方法(一)</h3></a></div> 
 <div align="center">
 <IMG SRC="img/2018-02-13_021319.jpg" width=480>
   </div></P>
@@ -108,7 +108,7 @@
   </div></p>
   
 <a name=2>
-  <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(二)</h4></a></div> 
+  <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《神韵艺术团2020年演出》方法(二)</h3></a></div> 
 
 <h3 align="center"><a href="http://nn.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看</a></h3>
 
