@@ -1,5 +1,5 @@
 <div align="center">
-<IMG SRC="img/c2f1bcb872097504.jpg" width=880>
+<IMG SRC="img/2018-03-01_155126.jpg" width=880>
   </div></P>
 
 
@@ -7,7 +7,7 @@
 <IMG SRC="img/2020011920.jpg" width=880>
   </div></P>
 
-<div align="center">观看预告片 http://ki.xyrs.bid/sy/</div></P>
+<div align="center">免翻观看预告片 http://ki.xyrs.bid/sy/</div></P>
 
  <div align="center"><h2><a href="http://220.141.125.164"> 免翻观看更多影片  http://220.141.125.164  </h2></a></div>
 
