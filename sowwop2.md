@@ -46,11 +46,13 @@
 
 <table>
 <tr>
-<td><a href="#k1"><h3>➤通过爱博电视收看</a></h3></td>
+<td width=880><a href="#k1"><h3>➤通过爱博电视收看</a></h3></td></tr>
+</table>
 
-<td><a href="#k2"><h3>➤通过衛星《韩星五A号》收看</a></h3></td>
-
-</td></tr>
+<table>
+<tr>
+<td width=880><a href="#k2"><h3>➤通过衛星《韩星五A号》收看</a></h3></td>
+</tr>
 </table>
 
 
@@ -142,7 +144,7 @@
 
 <div align="center"><h3><a href="http://uu.xyrs.bid/sy/">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
 
-<div align="center"><h3><a href="http://uu.xyrs.bid/sy/">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
+<div align="center"><h3><a href="http://ntdtv.com/gb/television">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
   <br/>
 
@@ -157,23 +159,35 @@
 <a href="https://github.com/awwkk/usdom/blob/master/dong/fg--+769p.zip?raw=true"><h4 align="center">(自由门)桌机版 769p zip</a><br></h4></td>
 <td>
 <a href="https://github.com/awwkk/usdom/blob/master/dong/fg++769++p.exe?raw=true"><h4 align="center">(自由门)桌机版 769p exe</a><br></h4></td>
+</tr>
+</table>
+
+<table>
+<tr>
 
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/fgma=3.2.apk?raw=true"><h4 align="center">(自由门)安卓版 3.2 apk</a></h4></td>
-	
+<td><a href="https://github.com/awwkk/usdom/blob/master/dong/um=4.6.apk?raw=true"><h4 align="center">(无界)安卓版4.6 apk</a></h4></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/u=19.02.zip?raw=true"><h4 align="center">(无界)桌机版 19.02 zip</a></h4></td>
 
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/u=19.02.exe?raw=true"><h4 align="center">(无界)桌机版 19.02 exe</a></h4></td>
+</tr>
+</table>
 
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/um=4.6.apk?raw=true"><h4 align="center">(无界)安卓版4.6 apk</a></h4></td>
+<table>
 <tr>
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
-
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">(爱博电视)桌机版</a></h4></td>
 
 <td><a href="https://github.com/awwkk/usdom/blob/master/vidio/ippotvm.mp4?raw=true"><h4 align="center">爱博电视 (安裝教学)</a></h4></td>
-
 </tr>
 </table>
+
+
+
  <br/>
 <a href=#list-1><h4 align="right">回上方</a></h4> 
  
@@ -181,7 +195,11 @@
 <IMG SRC="img/INTDTV.png" width=480>
   </div>
 <a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</a></h4>
-
+<table>
+<tr>
+<td><a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
+</tr>
+</table>
  <br/>
 <div align="center">
 <IMG SRC="img/fngrchn.jpg" width=480>
