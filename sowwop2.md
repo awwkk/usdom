@@ -11,7 +11,7 @@
 
  <div align="center"><h3><a href="http://220.141.125.164"> 免翻观看更多影片  http://220.141.125.164  </h3></a></div>
 
- <div align="center"><h3><a href="https://youtu.be/1Oo4batsd7c">请大家告诉大家，错过可能得等一年！</h3> </div>
+ <div align="center"><h3><a href="http://ki.xyrs.bid/sy/">请大家告诉大家，错过可能得等一年！</h3> </div>
 </P>
 
 <table>
@@ -42,25 +42,20 @@
 
 
 <a name=list-1>
-<div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视方法</h3></a></div> 
+<div align="center"><h3><a href="http://ku.xyrs.bid/sy/">中国大陆收视方法</h3></a></div> 
 
 <table>
 <tr>
-<td><a href="#1"><h3>➤通过爱博电视收看</a></h3></td>
+<td><a href="#k1"><h3>➤通过爱博电视收看</a></h3></td>
 
-<td><a href="#2"><h3>➤通过衛星《韩星五A号》收看</a></h3></td>
-
-<td><a href="#3"><h3>➤通过翻墙软件收看</a></h3></td>
+<td><a href="#k2"><h3>➤通过衛星《韩星五A号》收看</a></h3></td>
 
 </td></tr>
 </table>
 
 
-
-
-
-<a name=1>
-<div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《神韵艺术团2020年演出》方法(一)</h3></a></div> 
+<a name=k1>
+<div align="center"><h3><a href="http://ku.xyrs.bid/sy/">中国大陆收视《神韵艺术团2020年演出》方法(一)</h3></a></div> 
 <div align="center">
 <IMG SRC="img/2018-02-13_021319.jpg" width=480>
   </div></P>
@@ -84,10 +79,10 @@
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
   
-<a name=2>
-  <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《神韵艺术团2020年演出》方法(二)</h3></a></div> 
+<a name=k2>
+  <div align="center"><h3><a href="http://uu.xyrs.bid/sy/">中国大陆收视《神韵艺术团2020年演出》方法(二)</h3></a></div> 
 
-<h3 align="center"><a href="http://nn.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看</a></h3>
+<h3 align="center"><a href="http://uu.xyrs.bid/sy/">◆ 可通过韩星五A号的新唐人中国频道收看</a></h3>
 
  <br/>
 <div align="center"><h3>韩星5A号的播出参数</h3></div>
@@ -142,10 +137,12 @@
 <div align="center">
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
-<a name=3>
-<div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
+  
+ 
 
-<div align="center"><h3><a href="http://kk.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
+<div align="center"><h3><a href="http://uu.xyrs.bid/sy/">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
+
+<div align="center"><h3><a href="http://uu.xyrs.bid/sy/">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
   <br/>
 
@@ -186,7 +183,10 @@
 <a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</a></h4>
 
  <br/>
-
+<div align="center">
+<IMG SRC="img/fngrchn.jpg" width=480>
+  </div></p>
+  
 <a name=list>
 <div align="center">
 <IMG SRC="img/SYSO2016_1032x484_v1-600x400.jpg" width=880>
