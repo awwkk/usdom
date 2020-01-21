@@ -57,7 +57,7 @@ Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵�
 
 
 <a name=k1>
-<div align="center"><h3><a href="http://ku.xyrs.bid/sy/">中国大陆收视《神韵艺术团2020年演出》方法(一)</h3></a></div> 
+<div align="center"><h3><a href="http://ku.xyrs.bid/sy/">中国大陆收视方法(一)</h3></a></div> 
 <div align="center">
 <IMG SRC="img/2018-02-13_021319.jpg" width=480>
   </div></P>
@@ -82,7 +82,7 @@ Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵�
   </div></p>
   
 <a name=k2>
-  <div align="center"><h3><a href="http://uu.xyrs.bid/sy/">中国大陆收视《神韵艺术团2020年演出》方法(二)</h3></a></div> 
+  <div align="center"><h3><a href="http://uu.xyrs.bid/sy/">中国大陆收视方法(二)</h3></a></div> 
 
 <h3 align="center"><a href="http://uu.xyrs.bid/sy/">◆ 可通过韩星五A号的新唐人中国频道收看</a></h3>
 
