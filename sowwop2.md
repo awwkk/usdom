@@ -20,7 +20,10 @@
 
 五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
 
-神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2019年演出”，对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵交响乐团音乐会。
+神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2019年演出”，对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。</P>
+Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵交响乐团音乐会。</P>
+
+海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com
 </td></tr>
 </table>
 <div align="center">
@@ -46,9 +49,9 @@
 
 <table>
 <tr>
-<td width=440><a href="#k1"><h3>◆通过爱博电视收看</a></h3></td>
+<td width=440><a href="#k1"><h3 align="center">◆通过爱博电视收看</a></h3></td>
 
-<td width=440><a href="#k2"><h3>◆通过衛星《韩星五A号》收看</a></h3></td>
+<td width=440><a href="#k2"><h3 align="center">◆通过衛星《韩星五A号》收看</a></h3></td>
 </tr>
 </table>
 
@@ -73,7 +76,7 @@
  
   一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。</p>
   <a href=#list-1><h4 align="right">回上方</a></h4>
-  
+   <hr>
  <div align="center">
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
@@ -133,12 +136,12 @@
 新唐人电视台 2018年9月16日</p>
  <br/>
  <a href=#list-1><h4 align="right">回上方</a></h4>
+ 
+  <hr>
 <div align="center">
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
   
- 
-
 <div align="center"><h3><a href="http://uu.xyrs.bid/sy/">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
 
 <div align="center"><h3><a href="http://ntdtv.com/gb/television">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
@@ -184,9 +187,8 @@
 </table>
 
 
-
- <br/>
 <a href=#list-1><h4 align="right">回上方</a></h4> 
+ <hr>
  
 <div align="center">
 <IMG SRC="img/INTDTV.png" width=480>
@@ -194,7 +196,7 @@
 <a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</a></h4>
 <table>
 <tr>
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人电视 (安卓版).下载</a></h4></td>
+<td width=880><a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人电视 (安卓版).下载</a></h4></td>
 </tr>
 </table>
  <br/>
