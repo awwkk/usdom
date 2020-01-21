@@ -207,17 +207,6 @@ Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵�
 <a name=list>
 
 <div align="center">
-<IMG SRC="img/2001051717582.jpg" width=880>
-  </div>
-<div align="center">1月10日，美国神韵巡回艺术团在意大利那不勒斯的首场演出爆满。（Marius Iacob／大纪元）</div>
-<div align="center"><a href="#5">➤神韵那不勒斯首演爆满 欧洲贵族名流相约来</a></div></P>
-
-
-
-
-
-
-<div align="center">
 <IMG SRC="img/20011021365826.jpg" width=880>
   </div>
 <div align="center">1月10日，美国神韵巡回艺术团在意大利那不勒斯的首场演出爆满。（Marius Iacob／大纪元）</div>
