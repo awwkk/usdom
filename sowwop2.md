@@ -12,8 +12,8 @@
  <div align="center"><h3><a href="http://220.141.125.164"> 免翻观看更多影片  http://220.141.125.164  </h3></a></div>
 
  <div align="center"><h3><a href="http://ki.xyrs.bid/sy/">请大家告诉大家，错过可能得等一年！</h3> </div>
-</P>
 
+<div align="center">收藏此网址 https://git.io/diodio</div></P>
 <table>
 <tr><td>
 【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</P>
