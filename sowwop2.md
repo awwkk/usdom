@@ -142,12 +142,6 @@ Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵�
 <IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
   
-<div align="center"><h3><a href="http://uu.xyrs.bid/sy/">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
-
-<div align="center"><h3><a href="http://ntdtv.com/gb/television">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
-
-  <br/>
-
 
  <div align="center">
 <a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h3>◆ 翻墙软件下载 (完全免费 .安全. 无毒)</a></h3></div>
