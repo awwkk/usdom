@@ -7,6 +7,19 @@
 <h4 align="center"><a href="https://git.io/ykykyk"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4>
 <h4 align="center">➤ 看更多 https://git.io/orhb </h4>
 
+<table>
+<tr>
+ 
+<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-1.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
+
+<tr>
+ <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-1.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+
+</tr>
+
+</table>
+
+
 <img src="img/ffrd55.jpg" width=900></p>
 
 <h2 align="center"><a href="https://git.io/ssoskk">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 ) https://git.io/ssoskk </a></h2></p>
