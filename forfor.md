@@ -12,9 +12,9 @@
 
 </tr>
 <tr>
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-1.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/1nf4514-1.jpg align="center"" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-1.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/1nf4514-1.jpg" width="265"  border="0" alt=""></a></td>
  
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2nf1147481.jpg align="center"" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2nf1147481.jpg" width="265"  border="0" alt=""></a></td>
  </tr>
  
 <tr>
