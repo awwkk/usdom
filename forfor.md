@@ -75,10 +75,11 @@
 * 进入以下网址,访问大纪元退党网站。 https://git.io/722 请复制后，用谷歌浏览器访问。
 </td> </tr>
   </table> 
-  
+
+<div align="center">
+<img src="img/bb003.jpg"></div></p>
+
 <img src="img/ffrd55.jpg" width=900></p>
-
-
 
 <div align="center">
 <img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg" width=680></div></p>
