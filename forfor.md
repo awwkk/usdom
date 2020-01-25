@@ -1,7 +1,7 @@
 
 <img src="img/yuuii.jpg"></p>
 
-<h3 align="center"><a href="http://36.228.9.144">每个人都有知道真相的权利  翻墙必看 http://36.228.9.144 </a> </h3>
+<h3 align="center"><a href="http://220.141.123.251">每个人都有知道真相的权利  翻墙必看 http://220.141.123.251 </a> </h3>
 
 
 <h4 align="center"><a href="https://git.io/ykykyk"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4>
