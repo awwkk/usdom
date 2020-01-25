@@ -30,7 +30,7 @@
  </tr>
 
 <tr>
-<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885.html?raw=true">武汉肺炎——病毒爆发.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885.html?raw=true">武汉肺炎——新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
 
  <td><center><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
 
