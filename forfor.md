@@ -30,7 +30,7 @@
  </tr>
 
 <tr>
-<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885.html?raw=true">武汉肺炎——新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885.html?raw=true">武汉肺炎——病毒爆发.html(点击右键,另存新档)</a></center></td>
 
  <td><center><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
 
@@ -41,8 +41,8 @@
 <table>
  <tr>
  <td>
-  智者先贤们都预言了今天的事，当有行大善者劝您退出来时，一定要退出来，“遭了此劫不上算”，切莫错过神佛对我们的慈悲！在大地震、非典、大洪水等各种天灾人祸面前，许多善良的大陆同胞因做了三退，并诚心默念“法轮大法好、真善忍好”而得平安福报。
- <h2 align="center">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 )</h2><tr></td></tr>
+  <h3>智者先贤们都预言了今天的事，当有行大善者劝您退出来时，一定要退出来，“遭了此劫不上算”，切莫错过神佛对我们的慈悲！在大地震、非典、大洪水等各种天灾人祸面前，许多善良的大陆同胞因做了三退，并诚心默念“法轮大法好、真善忍好”而得平安福报。</h3>
+ <h3 align="center">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 )</h3><tr></td></tr>
  
 <tr>
  <td>
