@@ -1,7 +1,7 @@
 
 <img src="img/yuuii.jpg"></p>
-
-<h3 align="center"><a href="http://220.141.123.251">每个人都有知道真相的权利  翻墙必看 http://220.141.123.251 </a> </h3>
+<h4 align="center"><a href="https://git.io/Ffor">请记下此连结 【 https://git.io/Ffor 】免翻墙</a></h4>
+<h3 align="center"><a href="http://36.228.14.30">每个人都有知道真相的权利  翻墙必看 http://36.228.14.30 </a> </h3>
 
 
 <h4 align="center"><a href="https://git.io/ykykyk"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4>
@@ -12,25 +12,25 @@
 
 </tr>
 <tr>
-<td ><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-1.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/1nf4514-1.jpg" width="440"  border="0" alt=""></a></td>
+<td ><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-2.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/1nf4514-1.jpg" width="440"  border="0" alt=""></a></td>
  
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2nf1147481.jpg" width="440"  border="0" alt=""></a></td>
  </tr>
  
 <tr>
- <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-1.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+ <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-2.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
 
 <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
 </tr> 
  
 <tr>
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf1358885-4.jpg" width="440"  border="0" alt=""></a></td>
+<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-1029.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf1358885-4.jpg" width="440"  border="0" alt=""></a></td>
 
 <td><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2020-01-25_150201.jpg" width="440"  border="0" alt=""></a></td>
  </tr>
 
 <tr>
-<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885.html?raw=true">武汉肺炎——新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-1029.html?raw=true">武汉肺炎——新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
 
  <td><center><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
 
@@ -61,7 +61,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.123.251  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://36.228.14.30 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
@@ -70,10 +70,6 @@
  <a href="https://git.io/pamja"> 如何 “ 三退保命 ”</a>，请点击翻牆网站  https://git.io/opopop  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</td>
 </tr>
 
-  <tr>
-    <td width=880>
-* 进入以下网址,访问大纪元退党网站。 https://git.io/722 请复制后，用谷歌浏览器访问。
-</td> </tr>
   </table> 
 
 <div align="center">
