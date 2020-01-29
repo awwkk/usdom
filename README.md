@@ -101,19 +101,6 @@
 </table>
  </p>
  
- <div align=center>
-<img src="img/b_ornament_86_0M.png" width=580></div>
-</p>
-
-<table>
-  <tr>
-    <td width=880>
-* 进入以下网址,访问大纪元退党网站。 https://git.io/722 请复制后，用谷歌浏览器访问。</p>
-</td> </tr>
-</table>
- </p>
-
-
 <div align=center>
 <img src="img/b_ornament_86_0M.png" width=580></div>
 </p>
