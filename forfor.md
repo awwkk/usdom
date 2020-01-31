@@ -97,8 +97,10 @@
 <a href="https://git.io/ssbbaaa">迫害人权者应受制裁 )</a></div></p>
 <div align="center">
  <a href="#b28-2">被举报者的退路在哪里？</a></div>
-<a href="#b28-1">奉劝被举报者抓紧时机将功赎罪</a></div>
-
+ <div align="center">
+<a href="#b28-1">奉劝被举报者抓紧时机将功赎罪</a></div></p>
+<div align="center">
+<img src="img/bb003.jpg"></div></p>
 <a name=list-2><b>目录</b>
 
 <table>
