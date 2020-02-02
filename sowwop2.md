@@ -9,7 +9,7 @@
 
 <div align="center">免翻观看预告片 http://ki.xyrs.bid/sy/</div></P>
 
- <div align="center"><h3><a href="http://36.228.14.30"> 免翻观看更多影片  http://36.228.14.30  </a></h3></div>
+ <div align="center"><h3><a href="http://220.141.130.31"> 免翻观看更多影片  http://220.141.130.31  </a></h3></div>
 
  <div align="center"><h3><a href="http://ki.xyrs.bid/sy/">请大家告诉大家，错过可能得等一年！</a></h3> </div>
 
