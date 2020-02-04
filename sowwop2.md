@@ -3,6 +3,9 @@
   </div></P>
 <div align="center"><h2><a href="http://ki.xyrs.bid/sy/">【预告】元宵节新唐人独家播出“神韵晚会”及“交响乐音乐会” </a></h2></div></P>
 
+<div align="center"><h3><a href="http://ki.xyrs.bid/sy/">请大家告诉大家，并请先详细阅读下方的收视方法。 </a></h3> </div>
+
+
 <div align="center">
 <IMG SRC="img/2020011920.jpg" width=880>
   </div></P>
