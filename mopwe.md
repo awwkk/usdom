@@ -4,7 +4,7 @@
 <img src="img/g223.jpg" width="900">
 </p>
 
-  <h3 align=center><a href="http://220.141.130.31">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://220.141.130.31</a></h3>
+  <h3 align=center><a href="http://36.227.96.182">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://36.227.96.182</a></h3>
   <h4 align=center><a href="https://git.io/9stdz">请收藏此连结 【 https://git.io/9stdz 】方便日后能取得IP </a></h4> 
   
 <div align=center><h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div>
@@ -15,25 +15,25 @@
 
 </tr>
 <tr>
-<td ><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-2.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/1nf4514-1.jpg" width="440"  border="0" alt=""></a></td>
+<td ><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-3.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/1nf4514-1.jpg" width="440"  border="0" alt=""></a></td>
  
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2nf1147481.jpg" width="440"  border="0" alt=""></a></td>
  </tr>
  
 <tr>
- <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-2.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+ <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-3.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
 
 <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
 </tr> 
  
 <tr>
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-1029.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf1358885-4.jpg" width="440"  border="0" alt=""></a></td>
+<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-3.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf1358885-4.jpg" width="440"  border="0" alt=""></a></td>
 
 <td><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2020-01-25_150201.jpg" width="440"  border="0" alt=""></a></td>
  </tr>
 
 <tr>
-<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-1029.html?raw=true">武汉肺炎——新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
+<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-3.html?raw=true">武汉肺炎——新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
 
  <td><center><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
 
@@ -63,7 +63,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.130.31  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://36.227.96.182  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
