@@ -4,7 +4,7 @@
 <h3 align="center"><a href="http://36.227.96.182">每个人都有知道真相的权利  翻墙必看  http://36.227.96.182</a> </h3>
 <div align="center">
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div></p>
-<h3 align="center"><a href="https://git.io/zfzfzf"> “四•二五”上访真相  https://git.io/zfzfzf</a> </h3>
+<h3 align="center"><a href="https://git.io/zfzfzf"> “天安門自焚真相  https://git.io/zfzfzf</a> </h3>
 
 <a name=list><b>目录</b>
 <table>
@@ -61,7 +61,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 迫害法轮功是死路 明白真相是生路 https://git.io/tr 
+➤ 迫害法轮功是死路 明白真相是生路 https://git.io/trtptp
 </td></tr>
 
 <tr><td width=900>
@@ -113,7 +113,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 18年前天安门那场大戏 为“秘密群体灭绝”开道 https://git.io/ssss2
+➤ 18年前天安门那场大戏 为“秘密群体灭绝”开道 https://git.io/zfzfzf
 </td></tr>
 
 <tr><td width=900>
@@ -178,7 +178,7 @@
 
 
 <tr><td width=900>
-➤ 海外三退大潮 https://git.io/zbdodo
+➤ 海外三退大潮 https://git.io/9stdz
 </a></td></tr>
 </table>
 </p>
