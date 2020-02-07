@@ -156,9 +156,9 @@
 <tr>
 	
 <td width=440>
-<a href="https://github.com/awwkk/usdom/blob/master/dong/20fg771zzz.zip?raw=true"><h4 align="center">(自由门)桌机版 20fg771zzz zip</a><br></h4></td>
+<a href="https://github.com/awwkk/usdom/blob/master/dong/20fg772p.zip?raw=true"><h4 align="center">（更新2月7日)(自由门)桌机版 20fg772p zip</a><br></h4></td>
 <td width=440>
-<a href="https://github.com/awwkk/usdom/blob/master/dong/20-129fg771ppp.exe?raw=true"><h4 align="center">(自由门)桌机版 20-129fg771ppp exe</a><br></h4></td>
+<a href="https://github.com/awwkk/usdom/blob/master/dong/20--fg772p.exe?raw=true"><h4 align="center">（更新2月7日)(自由门)桌机版 20--fg772p exe</a><br></h4></td>
 </tr>
 </table>
 
