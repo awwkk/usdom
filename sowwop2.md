@@ -39,7 +39,7 @@
   <div align="center"><h2><a href="http://ki.xyrs.bid/sy/"> 大陆播出时间</h2></a></div>
   
   <div align="center">
-<IMG SRC="img/2020-02-04_124908.jpg" width=680>
+<IMG SRC="img/2020-02-07_151540-2.jpg" width=680>
   </div></P>
   
 <div align="center">
