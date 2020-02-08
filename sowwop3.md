@@ -1,7 +1,8 @@
-<div align="center"><IMG SRC="img/2010-12-16-falundafa_is_good.JPG" width=880>
+<div align="center"><IMG SRC="img/2020-02-08_160931.jpg" width=880>
+</div></p> 
+
+<div align="center"><IMG SRC="img/2020-02-08_161110.jpg" width=880>
 </div>
-
-
 
 <h3><b>目錄</b></h3>
 <a href=#list>
@@ -10,7 +11,7 @@
 </p>
 
 <h6 align="right">回目錄</a></h6>
-<a name=2><h3 align="center"><b>武汉肺炎患者痊愈了</a></b></h3>
+<a name=2><h3 align="center"><b>武汉肺炎患者痊愈了</a></b></h3></p> 
 
 【明慧网二零二零年二月八日】武汉封城。二月二日，我联系武汉一朋友（同学），得知朋友陪妻子就诊，不幸染疾，症状和武汉肺炎完全一致。但医院没有床位，就是不给确诊，让在家自行隔离。家里还有不满十岁的小孩，还有两老人，情况危急。
 
