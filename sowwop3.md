@@ -1,4 +1,4 @@
-<div align="center"><IMG SRC="img/2010-12-16-falundafa_is_good.jpg" width=880>
+<div align="center"><IMG SRC="img/2010-12-16-falundafa_is_good.JPG" width=880>
 </div>
 
 
