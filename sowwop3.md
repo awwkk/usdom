@@ -13,7 +13,7 @@
 <a href="#1">1.一位武汉肺炎患者的获救经历</a>
 </p>
 
-<div align="center"><IMG SRC="img/b_illust_103_0M.png" width=880>
+<div align="center"><IMG SRC="img/b_ornament_100_0M.png" width=880>
 </div></p> 
  <a name=3><h3 align="center"><b>不怕瘟疫的人</a></b></h3></p> 
 
