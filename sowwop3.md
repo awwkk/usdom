@@ -1,9 +1,9 @@
-<div align="center"><IMG SRC="img/2020-02-08_160931.jpg" width=880>
+<div align="center"><IMG SRC="img/sjtp-dyykx-2.png" width=880>
 </div></p> 
 
 
 
-<div align="center"><IMG SRC="img/sjtp-dyykx-3.png" width=680>
+<div align="center"><IMG SRC="img/sjtp-dyykx-3.png" width=880>
 </div></p>
  	
 
