@@ -1,11 +1,12 @@
 <div align="center"><IMG SRC="img/sjtp-dyykx-2.png" width=880>
 </div></p> 
 
-
-
 <div align="center"><IMG SRC="img/sjtp-dyykx-3.png" width=880>
 </div></p>
  	
+<div align="center"><IMG SRC="img/sjtp-bkwy.jpg" width=880>
+</div></p>
+
 
 <h3><b>目錄</b></h3></p>
 <a href=#list>
