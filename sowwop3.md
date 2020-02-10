@@ -1,9 +1,11 @@
 <div align="center"><IMG SRC="img/2020-02-08_160931.jpg" width=880>
 </div></p> 
 
-<div align="center"><IMG SRC="img/2020-02-08_161110.jpg" width=880>
-</div></p>
 
+
+<div align="center"><IMG SRC="img/sjtp-dyykx-3.png" width=680>
+</div></p>
+ 	
 
 <h3><b>目錄</b></h3></p>
 <a href=#list>
