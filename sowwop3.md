@@ -3,14 +3,6 @@
 
 <h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频  http://36.228.14.248 </b></h3></p>
 
-
-<div align="center"><IMG SRC="img/sjtp-dyykx-3.png" width=880>
-</div></p>
- 	
-<div align="center"><IMG SRC="img/sjtp-bkwy.jpg" width=880>
-</div></p>
-
-
 <h3><b>目錄</b></h3></p>
 <a href=#list>
 <a href="#4">4.传诵“大法好”　他人平安、自己也平安</a><br>   
@@ -19,10 +11,11 @@
 <a href="#1">1.一位武汉肺炎患者的获救经历</a>
 </p>
 
-<div align="center"><IMG SRC="img/b_ornament_100_0M.png" width=880>
-</div></p> 
-
-
+<div align="center"><IMG SRC="img/sjtp-dyykx-3.png" width=880>
+</div></p>
+ 	
+<div align="center"><IMG SRC="img/sjtp-bkwy.jpg" width=880>
+</div></p>
 
 <a name=4><h3 align="center"><b>传诵“大法好”　他人平安、自己也平安</a></b></h3></p> 
 【明慧网二零二零年二月九日】诚心敬念“法轮大法好，真善忍好”，大难来时，能逢凶化吉，遇难呈祥。“法轮大法好，真善忍好”这九个字，就是九字真言。法轮功学员告诉人们九字真言，没有任何为名、为利、为私的想法，就是希望您能明大法真相，躲劫难，保平安。
@@ -52,7 +45,7 @@ Z先生终于想起大法来了，答应了儿子。他想：当今大法在世�
 您的一个举动，也许就带给了一个人的平安。同时，周围的人多是我们的亲人朋友，多是有缘的人，他人都平安了，自己也才能平安。</p> 
 
 
-<h6 align="right">回目錄</a></h6>
+<h6 align="right">回目錄</h6>
 <div align="center"><IMG SRC="img/b_illust_103_0M.png" width=880>
 </div></p> 
  <a name=3><h3 align="center"><b>不怕瘟疫的人</a></b></h3></p> 
@@ -69,7 +62,7 @@ Z先生终于想起大法来了，答应了儿子。他想：当今大法在世�
 
 其实不只是我，所有把“法轮大法好，真善忍好”记在心里的百姓们，都会不害怕瘟疫，也不会害怕灾难，因为与神佛站在一起的人，都会得到神佛的保护，都会拥有美好的未来。</p>
 
-<h6 align="right">回目錄</a></h6>
+<h6 align="right">回目錄</h6>
 <div align="center"><IMG SRC="img/b_illust_103_0M.png" width=880>
 </div></p> 
 <a name=2><h3 align="center"><b>武漢肺炎 同學念九字吉言兩日得愈</a></b></h3></p> 
@@ -86,7 +79,7 @@ Z先生终于想起大法来了，答应了儿子。他想：当今大法在世�
 
 人生心一念，天地尽皆知。我想说明的是，不是要大家都来修炼法轮功，佛家讲缘份；相信“法轮大法好、真善忍好”，会助您度过夺命的危难！</p>
 
-<h6 align="right">回目錄</a></h6>
+<h6 align="right">回目錄</h6>
 <div align="center"><IMG SRC="img/b_illust_103_0M.png" width=880>
 </div></p> 
 <a name=1><h3 align="center"><b>一位武汉肺炎患者的获救经历</a></b></h3>
@@ -118,7 +111,7 @@ Z先生的儿子、妻子和岳母都是法轮功修炼人，无法来到他身�
 
 现在，他终于彻底明白：是法轮大法再一次救了他的命！</p> 
 
-<h6 align="right">回目錄</a></h6>
+<h6 align="right">回目錄</h6>
 
 
 
