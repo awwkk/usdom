@@ -1,7 +1,7 @@
 <div align="center"><IMG SRC="img/sjtp-dyykx-2.png" width=880>
 </div></p> 
 
-<div align="center">时间在倒数 错过时机悔也 翻墙必看视频  http://36.228.14.248 </div></p>
+<h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频  http://36.228.14.248 </b></h3></p>
 
 
 <div align="center"><IMG SRC="img/sjtp-dyykx-3.png" width=880>
