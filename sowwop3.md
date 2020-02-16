@@ -3,7 +3,7 @@
 
 <h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频  http://220.141.128.182 </b></h3></p>
 
-<div align="center"><IMG SRC="img/2020-02-16_222115.jpg" width=480>
+<div align="center"><IMG SRC="img/2020-02-16_222115.jpg" width=280>
 </div></p> 
 
 
