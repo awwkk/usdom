@@ -3,8 +3,6 @@
 
 <h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频  http://36.228.40.87 </b></h3></p>
 
-<div align="center"><IMG SRC="img/2020-02-16_222115.jpg" width=280>
-</div></p> 
 
 
 
@@ -298,6 +296,8 @@ Z先生的儿子、妻子和岳母都是法轮功修炼人，无法来到他身�
 <a href=#list><h4 align="right">回目錄</a></h4>
 
 
+<div align="center"><IMG SRC="img/2020-02-16_222115.jpg" width=280>
+</div></p> 
 
 
 
