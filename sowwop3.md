@@ -3,6 +3,19 @@
 
 <h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频  http://220.141.128.50 </b></h3></p>
 <a href="#00"><h3 align="center"><b>中共祸害广 国人快“三退”</a> </b></h3> <br>
+<table> 
+<tr>
+ <td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.128.50  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ 
+</tr> 
+
+<tr>
+ <td>
+ <a href="https://git.io/pamja"> 如何 “ 三退保命 ”</a>，请点击翻牆网站  https://git.io/opopop  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</td>
+</tr>  
+  </table> 
+
 <div align="center"><IMG SRC="img/2020-02-18_204928.jpg" width=480>
 </div></p> 
 
