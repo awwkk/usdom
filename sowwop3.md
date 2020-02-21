@@ -25,7 +25,7 @@
 <a href="#1">1.一位武汉肺炎患者的获救经历</a>
 </p>
 
-<div align="center"><IMG SRC="img/2018-03-12_140102.jpg" width=680>
+<div align="center"><IMG SRC="img/2018-03-12_140102-1.jpg" width=680>
 </div></p> 
 
 <a name=00><h3 align="center"><b>中共祸害广 国人快“三退”</a></b></h3></p> 
