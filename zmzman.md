@@ -3,7 +3,7 @@
 <img src="img/2019-04-03_215755-4.jpg">
 </p>
 
- <h3 align="center"> 翻牆必看  http://111.241.92.70 </h3></p>
+ <h3 align="center"> 翻牆必看  http://220.141.131.243 </h3></p>
  <h4 align=center><a href="https://git.io/ssbbaaa">请收藏此连结 【 https://git.io/ssbbaaa 】方便日后能取得IP </a></h4> 
  
 <div align="center">
@@ -84,7 +84,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://111.241.92.70 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.131.243 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
