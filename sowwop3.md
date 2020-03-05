@@ -1,12 +1,12 @@
 <div align="center"><IMG SRC="img/sjtp-dyykx-2.png" width=880>
 </div></p> 
 
-<h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频  http://36.228.33.253 </b></h3></p>
+<h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频  http://220.141.130.83 </b></h3></p>
 <a href="#00"><h3 align="center"><b>中共祸害广 国人快“三退”</a> </b></h3> <br>
 <table> 
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://36.228.33.253  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.130.83  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
