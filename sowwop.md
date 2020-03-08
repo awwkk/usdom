@@ -2,7 +2,7 @@
 <div align=center>
 <img src="img/wwsukk925.jpg" width=880>
  
-  <h4 align=center>免翻视频  http://220.141.130.83 </h4>
+  <h4 align=center>免翻视频  http://36.228.47.69 </h4>
 <h4 align=center><a href="https://git.io/opopkk">请收藏此连结 【 https://git.io/opopkk 】方便日后能取得IP </a></h4> 
 <h2><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h2> 
 </div>
@@ -76,7 +76,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://220.141.130.83  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://36.228.47.69  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
