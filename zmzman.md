@@ -2,9 +2,10 @@
 
 <img src="img/2019-04-03_215755-4.jpg">
 </p>
-
- <h3 align="center"> 翻牆必看  http://61.228.177.188/300 </h3></p>
- <h4 align=center><a href="https://git.io/ssbbaaa">请收藏此连结 【 https://git.io/ssbbaaa 】方便日后能取得IP </a></h4> 
+<img src="img/3-17-swspip.jpg">
+</p>
+ <h3 align="center"> 翻牆必看  http://61.228.179.75/300 </h3></p>
+ 
  
 <div align="center">
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div></p>
@@ -84,7 +85,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.177.188/300 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.75/300 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
