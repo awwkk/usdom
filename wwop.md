@@ -1,10 +1,8 @@
-
-
-
-
 <div align=center>
-<img src="img/b-800.jpg" width=880>
-  <h3 align=center>——不期而遇的相逢，就是上天的有意安排。翻墙必看 视频  http://61.228.177.188/300 </h3>
+<img src="img/b-800.jpg" width=880></p>
+ <img src="img/3-17-swspip.jpg" width=880> </p>
+  
+  <h3 align=center>——不期而遇的相逢，就是上天的有意安排。翻墙必看 视频  http://61.228.179.75/300 </h3>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
 </div></p>
 
