@@ -6,7 +6,7 @@
 
 <img src="img/3-17-swspip.jpg" width="900">
 </p>
-  <h3 align=center><a href="http://61.228.179.75/300">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://61.228.179.75/300/300</a></h3>
+  <h3 align=center><a href="http://61.228.179.75/300">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://61.228.179.75/300</a></h3>
   
   
 <div align=center><h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div>
