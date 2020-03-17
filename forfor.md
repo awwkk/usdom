@@ -1,7 +1,8 @@
 
 <img src="img/yuuii.jpg"></p>
-<h4 align="center"><a href="https://git.io/Ffor">请记下此连结 【 https://git.io/Ffor 】免翻墙</a></h4>
-<h3 align="center"><a href="http://61.228.177.188/300">每个人都有知道真相的权利  翻墙必看 http://61.228.177.188/300 </a> </h3>
+<div align="center">
+<img src="img/3-17-swspip.jpg" width=880></div></p>
+<h3 align="center"><a href="http://61.228.179.75/300">每个人都有知道真相的权利  翻墙必看 http://61.228.179.75/300 </a> </h3>
 
 
 <h4 align="center"><a href="https://git.io/ykykyk"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4>
@@ -76,7 +77,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.177.188/300 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.75/300 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
