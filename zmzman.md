@@ -4,7 +4,7 @@
 </p>
 <img src="img/3-17-swspip.jpg">
 </p>
- <h3 align="center"> 翻牆必看  http://61.228.179.75/300 </h3></p>
+ <h3 align="center"> 翻牆必看  http://61.228.179.169/300 </h3></p>
  
  
 <div align="center">
@@ -85,7 +85,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.75/300 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.169/300 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
