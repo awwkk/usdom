@@ -6,7 +6,7 @@
 
 <img src="img/3-17-swspip.jpg" width="900">
 </p>
-  <h3 align=center><a href="http://61.228.179.75/300">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://61.228.179.75/300</a></h3>
+  <h3 align=center><a href="http://61.228.179.169/300">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://61.228.179.169/300</a></h3>
   
   
 <div align=center><h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div>
@@ -80,7 +80,7 @@
  
 <tr>
  <td>
- <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.75/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
+ <a href="https://git.io/pamja">如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.179.169/300  </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</td>
  
 </tr> 
 
