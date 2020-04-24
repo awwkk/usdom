@@ -3,7 +3,7 @@
 <div align="center">
 <img src="img/3-17-swspip.jpg" width=880></div></p>
 <!--<h3 align="center"><a href="http://61.228.179.169/300">每个人都有知道真相的权利  翻墙必看 http://61.228.179.169/300 </a> </h3> -->
-<div align=center><h3>请收藏本网址，连上免翻视频即时IP https://bit.ly/3ezRQKo </h3>
+<div align=center><h3>请收藏本网址，连上免翻视频即时IP https://bit.ly/3ezRQKo </h3></div>
 
 <h4 align="center"><a href="https://git.io/ykykyk"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4>
 <h4 align="center">➤ 看更多 https://git.io/orhb </h4>
