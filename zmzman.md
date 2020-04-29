@@ -20,7 +20,7 @@
 <img src="img/2016030.jpg" width=880>
 </p>
 
-<img src="img/ppuu78.jpg"width=880>
+<img src="img/ppuu78.jpg" width=880>
 </div></p>
 
 <table>
