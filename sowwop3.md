@@ -5,10 +5,13 @@
 </div></p>
 
 <h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频<br>  请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP   </b></h3></p>
+
+<div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
+ <div align="center"><h3>看更多真相 https://bit.ly/2RQM1hX </h3></div></p>
+ 
+ <div align="center"><h4>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。 </h4> </div></p>
+
 <a href="#00"><h3 align="center"><b>中共祸害广 国人快“三退”</a> </b></h3></p>
-
-<h3 align="center">看更多真相 http://git.io/whfy-1 </b></h3></p>
-
 
 <table> 
 <!--<tr>
