@@ -14,13 +14,15 @@
 <div align="center">
 <h3><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h3></div></p>
 
+<div align="center">
 <img src="img/92p58PICwi8--1.jpg">
 </p>
 <img src="img/2016030.jpg">
 </p>
 
 <img src="img/ppuu78.jpg">
-</p>
+</div></p>
+
 <table>
  </td>
 
