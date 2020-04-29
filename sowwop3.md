@@ -1,7 +1,7 @@
 <div align="center"><IMG SRC="img/sjtp-dyykx-2.png" width=880>
 </div></p> 
 
-<div align="center"><IMG SRC="img/3-17-swspip.jpg" width=880>
+<div align="center"><IMG SRC="img/3-17-swspip.jpg" width=580>
 </div></p>
 
 <h3 align="center"><b>时间在倒数 错过时机悔也 翻墙必看视频<br>  请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP   </b></h3></p>
