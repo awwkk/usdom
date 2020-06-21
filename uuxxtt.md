@@ -1,10 +1,9 @@
 
 <img src="img/9256279ba80aa31.jpg"></p>
-<div align="center"><img src="img/3-17-swspip.jpg"></div> </p>
 
 <h3 align="center">每个人都有知道真相的权利  翻墙必看</br> 请收藏本网址 https://bit.ly/3ezRQKo 连上免翻视频即时IP   </a> </h3>
 
-<div align="center"><h3><b>中国禁闻 点击视频 https://bit.ly/2VIs51L </h3></b></div> </p>
+<div align="center"><h3><b>最新评论、热门视频 https://bit.ly/2A4uPQb </h3></b></div> </p>
  <div align="center"><h3>看更多真相 https://bit.ly/2RQM1hX </h3></div></p>
  
  <div align="center"><h4>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。 </h4> </div></p>
