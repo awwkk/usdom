@@ -147,7 +147,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 他们的改变来自法轮大法 https://git.io/dadakk
+➤ 他们的改变来自法轮大法 https://git.io/ntntnt
 </a></td></tr>
 
 <tr><td width=900>
