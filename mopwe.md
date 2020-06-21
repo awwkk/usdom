@@ -19,25 +19,13 @@
 </p>
 
 <table>
- </td>
-
-</tr>
-
- 
+<tr>
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2nf1147481-1.jpg" width="350"  border="0" alt=""></a></td>
  </tr>
  
-
-
 <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
 </tr> 
  
-
-
-
-
-
-
 <tr>
 <td ><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4673.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf4673.jpg" width="350"  border="0" alt=""></a></td>
  
@@ -50,8 +38,6 @@
 <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf5287.html?raw=true">中共活摘器官黑幕.html(点击右键,另存新档)</a></center></td>
 </tr> 
 
-
-</tr>
 </table>
 
 
