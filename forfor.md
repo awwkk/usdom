@@ -12,48 +12,18 @@
 <h4 align="center"><a href="https://git.io/ykykyk"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4></p>
 
 <table>
- </td>
-
-</tr>
 <tr>
-<td ><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-5.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf4514-5.jpg" width="350"  border="0" alt=""></a></td>
+<td width=440><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4673.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf4673.jpg" width="350"  border="0" alt=""></a></td>
  
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2nf1147481-1.jpg" width="350"  border="0" alt=""></a></td>
+<td width=440><a href="https://github.com/awwkk/usdom/blob/master/dong/nf5287.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf5287.jpg" width="350"  border="0" alt=""></a></td>
  </tr>
  
 <tr>
- <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4514-5.html?raw=true">每日新闻-大头条集锦.html(点击右键,另存新档)</a></center></td>
+ <td width=440><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4673.html?raw=true">法轮功专辑·祛病健身.html(点击右键,另存新档)</a></center></td>
 
-<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1147481.html?raw=true">大法徒的故事.html(点击右键,另存新档)</a></center></td>
-</tr> 
- 
-<tr>
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-5.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf1358885-5.jpg" width="350"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/2020-01-25_150201.jpg" width="350"  border="0" alt=""></a></td>
- </tr>
-
-<tr>
-<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf1358885-5.html?raw=true">武汉肺炎——新型冠状病毒爆发.html(点击右键,另存新档)</a></center></td>
-
- <td><center><a href="https://github.com/awwkk/usdom/blob/master/video/58885_360P.mp4?raw=true">武汉肺炎真相.mp4(点击右键,另存新档)</a></center></td>
-
-
-
-<tr>
-<td ><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4673.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf4673.jpg" width="350"  border="0" alt=""></a></td>
- 
-<td><a href="https://github.com/awwkk/usdom/blob/master/dong/nf5287.html?raw=true"><img src="https://github.com/awwkk/usdom/blob/master/img/nf5287.jpg" width="350"  border="0" alt=""></a></td>
- </tr>
- 
-<tr>
- <td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf4673.html?raw=true">法轮功专辑·祛病健身.html(点击右键,另存新档)</a></center></td>
-
-<td><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf5287.html?raw=true">中共活摘器官黑幕.html(点击右键,另存新档)</a></center></td>
+<td width=440><center><a href="https://github.com/awwkk/usdom/blob/master/dong/nf5287.html?raw=true">中共活摘器官黑幕.html(点击右键,另存新档)</a></center></td>
 </tr> 
 
-
-</tr>
 </table>
 
 
